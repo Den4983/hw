@@ -1,0 +1,7 @@
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\bin\Debug\client.exe.config
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\bin\Debug\client.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\bin\Debug\client.pdb
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\obj\Debug\client.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210209_chat\client\obj\Debug\client.pdb

@@ -1,0 +1,14 @@
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\bin\Debug\20210216_http.exe.config
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\bin\Debug\20210216_http.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\bin\Debug\20210216_http.pdb
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\obj\Debug\20210216_http.csprojAssemblyReference.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\obj\Debug\20210216_http.csproj.CoreCompileInputs.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\obj\Debug\20210216_http.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\20210216_http\20210216_http\obj\Debug\20210216_http.pdb
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\obj\Debug\20210216_http.csprojAssemblyReference.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\obj\Debug\20210216_http.csproj.CoreCompileInputs.cache
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\obj\Debug\20210216_http.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\obj\Debug\20210216_http.pdb
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\bin\Debug\20210216_http.exe.config
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\bin\Debug\20210216_http.exe
+C:\Users\Viking\Desktop\Reposit\itstep_pv912_np\homework\20210216_http\20210216_http\bin\Debug\20210216_http.pdb
